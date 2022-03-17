@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Diksha Yadav
+### 👋 Hi, I’m Diksha Yadav
 - 😊 I’m interested in web development
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on any kind of projects
+- 🎯 2022 goals: Contibute to Open Source projects.
 - 📧 How to reach me yadav.diksha1503@gmail.com
 
 <!---
