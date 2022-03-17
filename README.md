@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Diksha Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://i.gifer.com/KBZ.gif" style="widht:40px;" alt="hellogif"></img>
+<h3 align="center">A passionate frontend developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha4111&label=Profile%20views&color=0e75b6&style=flat" alt="diksha4111" /> </p>
 
-<p align="left"> <a href="https://twitter.com/diksha150314" target="blank"><img src="https://img.shields.io/twitter/follow/diksha150314?logo=twitter&style=for-the-badge" alt="diksha150314" /></a> </p>
 
 - 🔭 I’m currently working on **frontend**
 
 - 🌱 I’m currently learning **web development**
 
 - 👯 I’m looking to collaborate on **any kind of projects**
+
+- 🎯 2022 Goals: **Contributing to Open Source projects** 
 
 - 📫 How to reach me **yadav.diksha1503@gmail.com**
 
