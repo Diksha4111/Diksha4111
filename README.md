@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha4111&label=Profile%20views&color=0e75b6&style=flat" alt="diksha4111" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha4111&label=Profile%20views&color=0e75b6&style=flat" alt="Diksha4111" /> </p>
 
 
 - 🔭 I’m currently working on **frontend**
@@ -13,9 +13,10 @@
 
 - 🎯 2022 Goals: **Contributing to Open Source projects** 
 
+- 👩‍💻 Starting to focus on **DSA** 
+
 - 📫 How to reach me **yadav.diksha1503@gmail.com**
 
-- ⚡ Fun fact **I love basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
