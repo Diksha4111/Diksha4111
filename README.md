@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **yadav.diksha1503@gmail.com**
 
-- 🎯 2020 Goals : **Contributing to may open source projects**
+- 🎯 2022 Goals : **Woking on more and more projects**
 
 - ⚡ Fun fact **I love basketball**
 
