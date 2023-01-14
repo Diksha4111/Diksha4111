@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/diksha150314" target="blank"><img src="https://img.shields.io/twitter/follow/diksha150314?logo=twitter&style=for-the-badge" alt="diksha150314" /></a> </p>
 
-- 🔭 I recently completed my [Chatbot Project](https://drive.google.com/file/d/1d6DpZnYeZcNeJ6PbqjnLEYGTllZKiLV_/view?usp=sharing)
+- 🔭 I recently completed my [Minor Project- Car Parking Management System](https://drive.google.com/file/d/1d6DpZnYeZcNeJ6PbqjnLEYGTllZKiLV_/view?usp=sharing)
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently sharpening my **DSA** skills
 
-- 👯 I’m looking to collaborate on **any kind of projects**
+- 👯 I’m open to collaborate in **interesting projects**
 
 - 📫 How to reach me **yadav.diksha1503@gmail.com**
 
-- 🎯 2022 Goals : **Woking on more and more projects**
+- 🎯 2023 Goals : **A year dedicated to skills**
 
 - ⚡ Fun fact **I love basketball**
 
