@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diksha4111" alt="diksha4111" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/diksha150314" target="blank"><img src="https://img.shields.io/twitter/follow/diksha150314?logo=twitter&style=for-the-badge" alt="diksha150314" /></a> </p>
 
 - 🔭 I recently completed my [Minor Project- Car Parking Management System](https://drive.google.com/file/d/1d6DpZnYeZcNeJ6PbqjnLEYGTllZKiLV_/view?usp=sharing)
 
