@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diksha4111" alt="diksha4111" /></a> </p>
 
 
-- 🔭 I recently completed my [Minor Project- Car Parking Management System](https://drive.google.com/file/d/1d6DpZnYeZcNeJ6PbqjnLEYGTllZKiLV_/view?usp=sharing)
+- 🔭 I recently completed my [SketchSquad Project](https://github.com/Diksha4111/Sketch-Squad.git)
 
-- 🌱 I’m currently sharpening my **DSA** skills
+- 🌱 I’m currently sharpening my **DSA** skills 
 
 - 👯 I’m open to collaborate in **interesting projects**
 
