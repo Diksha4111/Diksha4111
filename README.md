@@ -10,15 +10,15 @@
 
 - 🔭 I recently completed my [SketchSquad Project](https://github.com/Diksha4111/Sketch-Squad.git)
 
-- 🌱 I’m currently sharpening my **DSA** skills 
+- 🌱 I’m currently sharpening my **DSA** skills. 
 
-- 👯 I’m open to collaborate on **Generative AI projects**
+- 👯 I’m open to collaborate on **Generative AI projects**.
 
 - 📫 How to reach me **yadav.diksha1503@gmail.com**
 
-- 🎯 2023 Goals : **A year dedicated to skills**
+- 🎯 2023 Goals : **A year dedicated to skills**.
 
-- ⚡ Fun fact **I love basketball**
+- ⚡ Fun fact **I love basketball**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
