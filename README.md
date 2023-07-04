@@ -8,17 +8,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diksha4111" alt="diksha4111" /></a> </p>
 
 
-- 🔭 I recently completed my [SketchSquad Project](https://github.com/Diksha4111/Sketch-Squad.git)
+- ⭐ I recently completed my [SketchSquad Project](https://github.com/Diksha4111/Sketch-Squad.git)
 
-- 🌱 I’m currently sharpening my **DSA** skills. 
+- 🌱 I’m currently sharpening my **DSA** skills
 
-- 👯 I’m open to collaborate on **Generative AI projects**.
+- 👯 I’m open to collaborate on **Generative AI projects**
 
 - 📫 How to reach me **yadav.diksha1503@gmail.com**
 
-- 🎯 2023 Goals : **A year dedicated to skills**.
+- 🎯 2023 Goals : **A year dedicated to skills**
 
-- ⚡ Fun fact **I love basketball**.
+- ⚡ Fun fact **I love basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
