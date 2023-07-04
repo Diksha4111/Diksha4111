@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Diksha</h1>
-<h3 align="center">* Cloud & AIML enthusiast *</h4>
+<h3 align="center">* Cloud Computing & AIML enthusiast *</h4>
 <h4 align="center">-- Welcome to my GitHub 😊 --</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha4111&label=Profile%20views&color=0e75b6&style=flat" alt="diksha4111" /> </p>
