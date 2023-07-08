@@ -18,7 +18,7 @@
 
 - 🎯 2023 Goals : **A year dedicated to skills**
 
-- ⚡ Fun fact **I love basketball**
+- 🏀 Fun fact **I love basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
