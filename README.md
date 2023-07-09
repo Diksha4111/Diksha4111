@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Diksha</h1>
+<h1 align="center">Hey 👋, I'm Diksha</h1>
 <h3 align="center">* Cloud Computing & AIML enthusiast *</h4>
 <h4 align="center">-- Welcome to my GitHub 😊 --</h4>
 
